@@ -6,7 +6,7 @@ Inspired by [this](https://blog.fox-it.com/2017/12/14/lessons-learned-from-a-man
 Summary
 -------
 
-Simple Python script to alert on DNS changes.
+A simple Python script to keep an eye on your DNS records.
 
 Install
 -------

@@ -75,7 +75,7 @@ def sendalert(msg):
 
 
 # Main routine
-print('dns-m0n by @martijn0x76 - Keeps an eye on DNS records\n')
+print('dns-m0n by @martijn0x76 - Keeps an eye on your DNS records\n')
 
 with open(list, 'r') as n:
     for name in n:
