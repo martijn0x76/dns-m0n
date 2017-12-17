@@ -23,6 +23,11 @@ Usage
 Usage: ./dns-m0n.py
 ```
 
+Run as a cronjob every minute
+```
+* * * * * /usr/bin/python /path/dns-m0n.py
+```
+
 Output example
 --------------
 ```
