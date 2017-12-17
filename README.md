@@ -20,6 +20,10 @@ Usage
 -----
 
 ```
+echo customerportal.mydomain.com >> ./names.txt
+```
+
+```
 Usage: ./dns-m0n.py
 ```
 
