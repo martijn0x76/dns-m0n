@@ -28,3 +28,10 @@ dns-m0n by @martijn0x76 - Keeps an eye on DNS records
 
 Checking: www.security.nl      | Current: 82.94.191.109, Before: 82.94.191.109
 ```
+
+TODO
+----
+
+* $ Support for names that resolve to multiple IP's and round-robin DNS
+* $ Support for NS,MX and TXT records
+* $ Save the complete config in the SQLite database
